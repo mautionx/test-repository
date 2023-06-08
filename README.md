@@ -1,3 +1,4 @@
-# test-repository
+# my-first-github-repository
+Here Is my first GitHub repository. Let's get started with GitHub
 
-This file was edited manually
+file was just edited manually from Github
